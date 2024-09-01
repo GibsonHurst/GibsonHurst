@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GibsonHurst
-- 👀 I’m currently studying Statistical Science & Data Analytics at Temple University
-- 📫 How to reach me www.gibsonhurst.com
-
+- Gibson Hurst
+- Data Analyst
+- BS Statistical Science & Data Analytics | Temple University | May 2025
 
 <!---
 GibsonHurst/GibsonHurst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
