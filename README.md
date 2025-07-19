@@ -1,5 +1,5 @@
 - Gibson Hurst
-- Data Analyst
+- Data Analyst @ Sallie Mae
 - BS Statistical Science & Data Analytics | Temple University | May 2025
 
 <!---
